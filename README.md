@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis with OpenAI
+# Twitter Stock Sentiment Analysis with OpenAI
 This code uses the OpenAI API to perform sentiment analysis on recent tweets about a specific stock.
 ## Prerequisites
 You will need an OpenAI API key, which you can obtain by signing up for an account at https://beta.openai.com/signup.
